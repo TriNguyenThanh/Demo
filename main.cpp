@@ -1,10 +1,6 @@
 #include "base.h"
-#include "tong.h"
-#include "hieu.h"
-using namespace std;
-
+#include "tich.h"
 int main(){
-    std::cout << tong(2, 2);
-    cout << hieu(5, 2);
+    std::cout << "\nTich la: " << tich(2,2);
     return 0;
 }
