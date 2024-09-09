@@ -4,6 +4,7 @@
 #include "tong.h"
 #include "print.cpp"
 
+
 int main(){
     std::cout << "\nTich la: " << tich(2,2);
     std::cout << tich(2,2);
@@ -14,5 +15,6 @@ int main(){
 
     std::cout << "Hello" << std::endl;
     
+    std::cout << "Hello world";
     return 0;
 }
