@@ -1,7 +1,3 @@
 sfsse
 àefewfwef
-<<<<<<< HEAD
 Hello cac ban
-=======
-ưefewfwe
->>>>>>> c2e5f9f36efb72f8d38485f4840c1ca7a639173f
