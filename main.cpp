@@ -1,4 +1,4 @@
-#include "base_func.h"
+#include "tong.h"
 
 int main(){
     output();

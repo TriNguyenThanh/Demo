@@ -1,4 +1,4 @@
-#include "base_func.h"
+#include "tong.h"
 
 void output(){
     std::cout << "Hello world";
