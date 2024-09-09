@@ -2,8 +2,4 @@ Hello cac ban, chung ta dang hoc git
 bien beo
 bien push code
 hhhhhh
-<<<<<<< HEAD
-code them 1 dong :)))
-=======
-
->>>>>>> a19658f8c06e3ffe2597b8767a559be63e991fa9
+Confict lan thu n
