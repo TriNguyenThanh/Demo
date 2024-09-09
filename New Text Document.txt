@@ -1,4 +1,8 @@
 sfsse
 àefewfwef
+<<<<<<< HEAD
 ưefewfwe
 ccecwewefwe
+=======
+Hello cac ban
+>>>>>>> refs/remotes/origin/main
