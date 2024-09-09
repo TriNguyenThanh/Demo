@@ -11,6 +11,8 @@ int main(){
     std::cout << "\nTong la:" << tong(2, 2);
     std::cout << tong(2, 2);
     print();
+
+    std::cout << "Hello" << std::endl;
     
     return 0;
 }
